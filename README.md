@@ -5,13 +5,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Screenshot](#screenshot)
-- [My process](#my-process)
-  - [Built with](#built-with)
+
+- [Built with](#built-with)
 - [Author](#author)
 
 ### Screenshot
 
-![](./images/screenshot.jpg)
+![](./images/screenshot.png)
 
 ### Built with
 
